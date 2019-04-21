@@ -1,0 +1,19 @@
+{
+  "name": "nodefiles",
+  "version": "8.9.4",
+  "description": "simple web app",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/colonkhizer/node.git"
+  },
+  "author": "Khizer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/colonkhizer/node/issues"
+  },
+  "homepage": "https://github.com/colonkhizer/node#readme"
+}
